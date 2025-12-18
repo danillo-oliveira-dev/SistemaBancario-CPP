@@ -34,7 +34,10 @@ Como o C++ é uma linguagem compilada, é necessário gerar o binário antes de 
    ```
 
 Execute o programa criado:
+
 Windows: .\banco.exe
+
 Linux/Mac: ./banco
 
-Projeto de estudo desenvolvido por [Danillo].
+
+Projeto de estudo desenvolvido por [Danillo] - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
