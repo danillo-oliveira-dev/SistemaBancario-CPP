@@ -4,20 +4,20 @@ Este projeto consiste num sistema de gestão bancária desenvolvido em C++ para 
 
 O foco principal foi a utilização de **Programação Orientada a Objetos (POO)** para criar um sistema seguro, onde os dados sensíveis (como saldo) são protegidos e apenas manipulados através de métodos específicos.
 
-## ⚙️ Arquitetura e Conceitos
+## Arquitetura e Conceitos
 
 - **Linguagem:** C++
 - **Paradigma:** Orientação a Objetos (Classes, Métodos e Encapsulamento).
 - **Estrutura de Dados:** Utilização de `std::vector` (STL) para armazenamento dinâmico de contas, permitindo que o sistema cresça sem tamanho fixo.
 - **Ponteiros:** Manipulação de referências para atualizar objetos diretamente na memória.
 
-## 📋 Funcionalidades
+## Funcionalidades
 
 1. **Abertura de Conta:** Gera automaticamente um número de conta único.
 2. **Depósitos e Saques:** Validações lógicas (ex: impedir saque maior que o saldo ou valores negativos).
 3. **Consulta:** Exibição formatada de dados financeiros.
 
-## 🚀 Como compilar e executar
+## Como compilar e executar
 
 Como o C++ é uma linguagem compilada, é necessário gerar o binário antes de executar.
 
@@ -41,3 +41,4 @@ Linux/Mac: ./banco
 
 
 Projeto de estudo desenvolvido por [Danillo] - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
+
